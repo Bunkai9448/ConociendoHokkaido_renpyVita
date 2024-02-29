@@ -400,15 +400,15 @@ translate es_es strings:
 
     # renpy/common/00gui.rpy:374
     old "Are you sure?"
-    new "Are you sure?"
+    new "¿Estás seguro?"
 
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "¿Seguro de que quieres borrar esta partida?"
 
     # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "¿Seguro que quieres sobreescribirla?"
 
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
@@ -416,15 +416,15 @@ translate es_es strings:
 
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "¿Seguro que quieres salir?"
 
     # renpy/common/00gui.rpy:379
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "Seguro que quieres volver al menú principal?\nPerderás el progreso actual."
 
     # renpy/common/00gui.rpy:380
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "Seguro que quieres terminar la rerproducción?"
 
     # renpy/common/00gui.rpy:381
     old "Are you sure you want to begin skipping?"
@@ -440,11 +440,11 @@ translate es_es strings:
 
     # renpy/common/00keymap.rpy:267
     old "Failed to save screenshot as %s."
-    new "Failed to save screenshot as %s."
+    new "Error al guardar la foto de pantalla como %s."
 
     # renpy/common/00keymap.rpy:279
     old "Saved screenshot as %s."
-    new "Saved screenshot as %s."
+    new "Foto de pantalla guardada como %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
@@ -476,7 +476,7 @@ translate es_es strings:
 
     # renpy/common/00preferences.rpy:274
     old "text speed"
-    new "text speed"
+    new "Velocidad de texto"
 
     # renpy/common/00preferences.rpy:282
     old "joystick"

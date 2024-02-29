@@ -36,15 +36,15 @@ translate es_es strings:
 
     # game/screens.rpy:304
     old "Start"
-    new "Start"
+    new "Empezar"
 
     # game/screens.rpy:312
     old "Load"
-    new "Load"
+    new "Cargar"
 
     # game/screens.rpy:314
     old "Preferences"
-    new "Preferences"
+    new "Preferencias"
 
     # game/screens.rpy:318
     old "End Replay"
@@ -52,23 +52,23 @@ translate es_es strings:
 
     # game/screens.rpy:322
     old "Main Menu"
-    new "Main Menu"
+    new "Menú principal"
 
     # game/screens.rpy:324
     old "About"
-    new "About"
+    new "Acerca de"
 
     # game/screens.rpy:329
     old "Help"
-    new "Help"
+    new "Ayuda"
 
     # game/screens.rpy:335
     old "Quit"
-    new "Quit"
+    new "Salir"
 
     # game/screens.rpy:476
     old "Return"
-    new "Return"
+    new "Volver"
 
     # game/screens.rpy:560
     old "Version [config.version!t]\n"
@@ -80,15 +80,15 @@ translate es_es strings:
 
     # game/screens.rpy:606
     old "Page {}"
-    new "Page {}"
+    new "Página {}"
 
     # game/screens.rpy:606
     old "Automatic saves"
-    new "Automatic saves"
+    new "Guardados automáticos"
 
     # game/screens.rpy:606
     old "Quick saves"
-    new "Quick saves"
+    new "Guardados rápidos"
 
     # game/screens.rpy:648
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -120,11 +120,11 @@ translate es_es strings:
 
     # game/screens.rpy:735
     old "Window"
-    new "Window"
+    new "Modo ventana"
 
     # game/screens.rpy:736
     old "Fullscreen"
-    new "Fullscreen"
+    new "Pantalla completa"
 
     # game/screens.rpy:740
     old "Rollback Side"
@@ -132,15 +132,15 @@ translate es_es strings:
 
     # game/screens.rpy:741
     old "Disable"
-    new "Disable"
+    new "Deshabilitar"
 
     # game/screens.rpy:742
     old "Left"
-    new "Left"
+    new "Izquierda"
 
     # game/screens.rpy:743
     old "Right"
-    new "Right"
+    new "Derecha"
 
     # game/screens.rpy:748
     old "Unseen Text"
@@ -156,19 +156,19 @@ translate es_es strings:
 
     # game/screens.rpy:763
     old "Text Speed"
-    new "Text Speed"
+    new "Velocidad de texto"
 
     # game/screens.rpy:767
     old "Auto-Forward Time"
-    new "Auto-Forward Time"
+    new "Velocidad de autoavance"
 
     # game/screens.rpy:774
     old "Music Volume"
-    new "Music Volume"
+    new "Volumen de música"
 
     # game/screens.rpy:781
     old "Sound Volume"
-    new "Sound Volume"
+    new "Volumen de sonido"
 
     # game/screens.rpy:787
     old "Test"
@@ -176,11 +176,11 @@ translate es_es strings:
 
     # game/screens.rpy:791
     old "Voice Volume"
-    new "Voice Volume"
+    new "Volumen de voces"
 
     # game/screens.rpy:802
     old "Mute All"
-    new "Mute All"
+    new "Silenciar todo"
 
     # game/screens.rpy:921
     old "The dialogue history is empty."
@@ -188,11 +188,11 @@ translate es_es strings:
 
     # game/screens.rpy:991
     old "Keyboard"
-    new "Keyboard"
+    new "Teclado"
 
     # game/screens.rpy:992
     old "Mouse"
-    new "Mouse"
+    new "Ratón"
 
     # game/screens.rpy:995
     old "Gamepad"
@@ -320,11 +320,11 @@ translate es_es strings:
 
     # game/screens.rpy:1102
     old "Calibrate"
-    new "Calibrate"
+    new "Calibrar"
 
     # game/screens.rpy:1167
     old "Yes"
-    new "Yes"
+    new "Si"
 
     # game/screens.rpy:1168
     old "No"
